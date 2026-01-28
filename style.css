@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+}
+
+.button {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    color: white;
+    padding: 10px 20px;
+    border: 3px solid black;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    text-transform: uppercase;
+    transition: background-color 0.5s ease;
+}
+
+#greenBtn {
+    background-color: #28a745;
+}
+
+#blueBtn {
+    background-color: #007bff;
+
+}
+
+#redBtn {
+    background-color: #de1756;
+
+}
+
+#yellowBtn {
+    background-color: #e8ef63;
+}
